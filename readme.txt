@@ -1,0 +1,1 @@
+Bonus- added transparency and text changing effects to links, sticky footer achieved (I think?), and colors were picked out with chrome extensions, so they should all be accurate
